@@ -1,0 +1,12 @@
+{
+  "name": "RealStateWebsiteDesign",
+  "version": "1.0.0",
+  "author": "clianor <ejrgus94160@estsecurity.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
